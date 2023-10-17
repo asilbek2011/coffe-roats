@@ -1,0 +1,37 @@
+.sardor .container{
+    display: flex;
+    align-items: center;
+}
+
+.sardor{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.sardor__text{
+    margin: 0;
+    padding: 0;
+    width: 540px;
+    color: #333D4B;
+    font-family: "Barlow";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.sardor__heading{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 32px;
+    color: #333D4B;
+    font-family: Fraunces;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 48px;
+}
+
+.sardor__item{
+    margin-left: 85px;
+}
